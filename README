@@ -1,0 +1,5 @@
+Multiplayer Othello/Reversi that I developed originally as a Fathers Day present. It has the capabilities for multiplayer both on a local network and outside the network.
+The websocket library from https://github.com/TooTallNate/Java-WebSocket is used to implement the multiplayer functionality and it is included in its compiled form in lib/Websocket.jar
+In order to use multiplayer you will need the code from github.com/arb362/othello-server
+
+Licensed under MIT License
